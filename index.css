@@ -1,0 +1,18 @@
+h1{
+    border: 1px solid;
+    color: black;
+}
+h2{
+    color:purple;
+}
+body{
+    background-color: cadetblue;
+}
+input[type="text"]{
+    background-color: darkred;
+    padding: 8px 10px;
+    border-radius: 2px;
+}
+div{
+    color: darkgreen;
+}
